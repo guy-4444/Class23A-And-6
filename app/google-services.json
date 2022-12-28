@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721752983976",
+    "firebase_url": "https://mygarage-6842e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mygarage-6842e",
+    "storage_bucket": "mygarage-6842e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721752983976:android:e95b54950e77224eba759d",
+        "android_client_info": {
+          "package_name": "com.guy.class23a_and_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721752983976-9devg5hn0rcrrkn47hk5vsoo8m9ikncn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORxAOGz8_ewrFi95HSchtJjBa6I6ZA3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721752983976-9devg5hn0rcrrkn47hk5vsoo8m9ikncn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
